@@ -1,4 +1,4 @@
-# beecrowd-java-iniciante
+# beecrowd-java
 Soluções em Java para problemas do BeeCrowd e prática de algoritmos.
 
 Perfil BeeCrowd: 
