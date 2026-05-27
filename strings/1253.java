@@ -23,7 +23,7 @@ public class Main {
 					char letra = input.charAt(j);
 					
 					sb.append(alfabetoMaiusculo[((letra - 'A') - pace + 26) % 26]);
-					
+					//somar 26 para não ficar negativo
 				}
 				
 				System.out.println(sb);
